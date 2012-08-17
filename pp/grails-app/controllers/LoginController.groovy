@@ -37,7 +37,7 @@ class LoginController {
 	}
 
 	/**
-	 * Show the login page.
+	 * Show the login page as first one.
 	 */
 	def auth = {
 
